@@ -1,0 +1,107 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="alembic" />
+          <option value="anitya_schema" />
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="attrs" />
+          <option value="Automat" />
+          <option value="blinker" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="constantly" />
+          <option value="crochet" />
+          <option value="cryptography" />
+          <option value="decorator" />
+          <option value="defusedxml" />
+          <option value="ecdsa" />
+          <option value="fastapi" />
+          <option value="fedora_messaging" />
+          <option value="fedora_messaging_the_new_hotness_schema" />
+          <option value="functions" />
+          <option value="greenlet" />
+          <option value="gssapi" />
+          <option value="h11" />
+          <option value="house" />
+          <option value="hyperlink" />
+          <option value="idna" />
+          <option value="Incremental" />
+          <option value="iniconfig" />
+          <option value="Jinja2" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="koji" />
+          <option value="Mako" />
+          <option value="MarkupSafe" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="passlib" />
+          <option value="pika" />
+          <option value="pluggy" />
+          <option value="psycopg2-binary" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="pycparser" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="Pygments" />
+          <option value="pyOpenSSL" />
+          <option value="pytest" />
+          <option value="python-bugzilla" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="python-jose" />
+          <option value="python-multipart" />
+          <option value="redis" />
+          <option value="referencing" />
+          <option value="requests" />
+          <option value="requests-gssapi" />
+          <option value="rpds-py" />
+          <option value="rsa" />
+          <option value="schemas" />
+          <option value="service-identity" />
+          <option value="six" />
+          <option value="spglib" />
+          <option value="sqladmin" />
+          <option value="SQLAlchemy" />
+          <option value="starlette" />
+          <option value="steov" />
+          <option value="the-new-hotness" />
+          <option value="tomli" />
+          <option value="Twisted" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="uliweb-alembic" />
+          <option value="urllib3" />
+          <option value="utils" />
+          <option value="uvicorn" />
+          <option value="wrapt" />
+          <option value="WTForms" />
+          <option value="zope.interface" />
+          <option value="Django" />
+          <option value="djangorestframework" />
+          <option value="django-environ" />
+          <option value="drf-yasg" />
+          <option value="django-cors-headers" />
+          <option value="django-filter" />
+          <option value="Pillow" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mysite.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
