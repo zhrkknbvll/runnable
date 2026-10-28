@@ -18,8 +18,6 @@ prompt = ChatPromptTemplate(
 
 model = ChatOllama(model='llama3.2:latest')
 
-# --- 5 ФУНКЦИЯ ---
-
 
 def check_text(words):
   new_words = words.lower().split()
@@ -49,7 +47,6 @@ def remove_spaces(words):
   return ' '.join(words.split())
 
 
-# ------------------
 
 chain = (
     RunnableLambda(check_text)
